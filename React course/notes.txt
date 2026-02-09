@@ -1,0 +1,14 @@
+react is an external library
+HTML is what makes the website
+use script to make js codes
+script element kan code van heel internet laden
+
+external library is iets dat van het internet code runt
+
+external links:
+    - https://supersimple.dev/react-basics 
+    - https://unpkg.com/supersimpledev@8.6.4/external-library.js
+
+
+Tijdstip:
+    - 14:00 geeindigt

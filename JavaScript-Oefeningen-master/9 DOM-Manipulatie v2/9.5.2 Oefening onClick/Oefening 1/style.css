@@ -1,0 +1,7 @@
+#subscribe-button {
+    background: black;
+    color: white;
+    border: black 3px solid;
+    border-radius: 20px;
+    padding: 3px 10px;
+}
